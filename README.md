@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  
-    <img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
-  
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   <a href="https://www.linkedin.com/in/iolardemartini" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
