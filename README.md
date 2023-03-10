@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/iolardemartini" target="_blank">
+  <a 
     <img src="https://img.shields.io/badge/-Python-000?&logo=Python"/>
   </a>
   <a href="https://www.linkedin.com/in/iolardemartini" target="_blank">
