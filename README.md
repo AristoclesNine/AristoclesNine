@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ0YTFkNWFmZWEzYjQwZTYwZDgzYzZiNjQwMzdmNTk5NWNhMTZiYSZjdD1n/3KQFqhgLN9ngkYr0qS/giphy.gif" width="100"/>
+  <img src="https://github.com/AristoclesNine/AristoclesNine/blob/main/AI.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://dos.ny.gov/personal-privacy-protection-law">
@@ -34,6 +34,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 
 ### Technologies
 
