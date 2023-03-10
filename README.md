@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
-
+<p align="center">
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 ![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=36465D&logoColor=AAA&style=flat-square)
@@ -17,7 +17,7 @@
 &nbsp;&nbsp;&nbsp;
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
-
+</a>
 
 <p align="center">
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
