@@ -1,4 +1,3 @@
-name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -11,11 +10,11 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: AristoclesNine/waka-readme@main
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ waka_25cb370c-a75d-4405-84fb-c0b8308eed5d }}
+          WAKATIME_API_KEY: ${{waka_25cb370c-a75d-4405-84fb-c0b8308eed5d}}
           SHOW_TITLE: true
-          BLOCKS: ░▒▓█
+          BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
