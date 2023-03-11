@@ -1,4 +1,3 @@
-
 on:
   workflow_dispatch:
   schedule:
@@ -10,7 +9,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: AristoclesNine/AristoclesNine@main
         with:
           WAKATIME_API_KEY: ${{waka_25cb370c-a75d-4405-84fb-c0b8308eed5d}}
           SHOW_TITLE: true
