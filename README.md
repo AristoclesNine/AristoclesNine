@@ -63,3 +63,6 @@
 ![Mpv](https://img.shields.io/badge/-Mpv-000?&logo=Mpv)
 ![Neomutt](https://img.shields.io/badge/-Neomutt-000?&logo=Neomutt)
 ![Newsboat](https://img.shields.io/badge/-Newsboat-000?&logo=Newsboat)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
