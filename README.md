@@ -64,5 +64,7 @@
 ![Neomutt](https://img.shields.io/badge/-Neomutt-000?&logo=Neomutt)
 ![Newsboat](https://img.shields.io/badge/-Newsboat-000?&logo=Newsboat)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AristoclesNine)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
