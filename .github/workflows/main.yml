@@ -1,0 +1,31 @@
+- name: Waka - Readme
+  # You may pin to the exact commit or the version.
+  # uses: athul/waka-readme@413150be53d5559a8e125ce81145026f086bfb8d
+  uses: athul/waka-readme@v0.1.8
+  with:
+    # GitHub access token with Repo scope
+    GH_TOKEN: # default is ${{ github.token }}
+    # Your Wakatime/Wakapi/Hakatime API Key
+    WAKATIME_API_KEY: 
+    # Alternative API base URL when using a third-party WakaTime-ish backend
+    API_BASE_URL: # optional, default is https://wakatime.com/api
+    # Your GitHub repository
+    REPOSITORY: # optional, default is ${{ github.repository }}
+    # Add a commit message of your choice
+    COMMIT_MESSAGE: # optional, default is Updated waka-readme graph with new metrics
+    # Displays the week number and days in Readme as title
+    SHOW_TITLE: # optional, default is false
+    # Section name for data to appear in readme
+    SECTION_NAME: # optional, default is waka
+    # Add the progress blocks of your choice
+    BLOCKS: # optional, default is ░▒▓█
+    # Time range of the queried statistics
+    TIME_RANGE: # optional, default is last_7_days
+    # Maximum number of languages to be shown
+    LANG_COUNT: # optional, default is 5
+    # Displays the amount of time spent for each language
+    SHOW_TIME: # optional, default is true
+    # Displays total coding time
+    SHOW_TOTAL: # optional, default is false
+    # Displays total coding time including unclassified languages
+    SHOW_MASKED_TIME: # optional, default is false
